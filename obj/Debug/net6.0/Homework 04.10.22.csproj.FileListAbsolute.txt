@@ -1,0 +1,15 @@
+C:\Users\tbyla\OneDrive\Рабочий стол\GIT GB\Homework 04.10.22\bin\Debug\net6.0\Homework 04.10.22.exe
+C:\Users\tbyla\OneDrive\Рабочий стол\GIT GB\Homework 04.10.22\bin\Debug\net6.0\Homework 04.10.22.deps.json
+C:\Users\tbyla\OneDrive\Рабочий стол\GIT GB\Homework 04.10.22\bin\Debug\net6.0\Homework 04.10.22.runtimeconfig.json
+C:\Users\tbyla\OneDrive\Рабочий стол\GIT GB\Homework 04.10.22\bin\Debug\net6.0\Homework 04.10.22.dll
+C:\Users\tbyla\OneDrive\Рабочий стол\GIT GB\Homework 04.10.22\bin\Debug\net6.0\Homework 04.10.22.pdb
+C:\Users\tbyla\OneDrive\Рабочий стол\GIT GB\Homework 04.10.22\obj\Debug\net6.0\Homework 04.10.22.csproj.AssemblyReference.cache
+C:\Users\tbyla\OneDrive\Рабочий стол\GIT GB\Homework 04.10.22\obj\Debug\net6.0\Homework 04.10.22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tbyla\OneDrive\Рабочий стол\GIT GB\Homework 04.10.22\obj\Debug\net6.0\Homework 04.10.22.AssemblyInfoInputs.cache
+C:\Users\tbyla\OneDrive\Рабочий стол\GIT GB\Homework 04.10.22\obj\Debug\net6.0\Homework 04.10.22.AssemblyInfo.cs
+C:\Users\tbyla\OneDrive\Рабочий стол\GIT GB\Homework 04.10.22\obj\Debug\net6.0\Homework 04.10.22.csproj.CoreCompileInputs.cache
+C:\Users\tbyla\OneDrive\Рабочий стол\GIT GB\Homework 04.10.22\obj\Debug\net6.0\Homework 04.10.22.dll
+C:\Users\tbyla\OneDrive\Рабочий стол\GIT GB\Homework 04.10.22\obj\Debug\net6.0\refint\Homework 04.10.22.dll
+C:\Users\tbyla\OneDrive\Рабочий стол\GIT GB\Homework 04.10.22\obj\Debug\net6.0\Homework 04.10.22.pdb
+C:\Users\tbyla\OneDrive\Рабочий стол\GIT GB\Homework 04.10.22\obj\Debug\net6.0\Homework 04.10.22.genruntimeconfig.cache
+C:\Users\tbyla\OneDrive\Рабочий стол\GIT GB\Homework 04.10.22\obj\Debug\net6.0\ref\Homework 04.10.22.dll
